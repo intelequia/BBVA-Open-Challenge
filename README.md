@@ -1,4 +1,7 @@
 # **BBVA Open Challenge**
+
+![RDS](./Docs/Images/intelequia-bbva.jpg)
+
 This repo is a start-up guide to help developers of BBVA Open Challenge to prepare their Mixed Reality (MR) projects using Microsoft holographic technology.
 
 The aim of the developers is to design a MR solution to improve the work space of the trader of the future.
