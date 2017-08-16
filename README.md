@@ -21,6 +21,8 @@ This guide, therefore, collects in an organized way the basic procedures and tec
 
 Finally, you can note that this guide has been developed by **Intelequia VR Team**. Any doubts or clarifications that contestants have about the procedures described can direct it to the mailbox of technical support hololens@intelequia.com, indicating in the body of the same the data of registry of the contestant.
 
+If you want to participate in this challenge, access the following link:  https://www.centrodeinnovacionbbva.com/en/openchallenges/globaltrends
+
 ## Official Documentation
 
 - [Mixed Reality Trading Workplace Challenge Repository](https://github.com/intelequia/BBVA-Open-Challenge)
