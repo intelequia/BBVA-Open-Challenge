@@ -23,11 +23,9 @@ Finally, you can note that this guide has been developed by **Intelequia VR Team
 
 ## Official Documentation
 
-[Mixed Reality Trading Workplace Challenge Repository](https://github.com/intelequia/BBVA-Open-Challenge)
-
-[Mixed Reality Trading Workplace Start-up guide](https://github.com/intelequia/BBVA-Open-Challenge/raw/master/Docs/Hololens%20Starter%20Kit.pdf)
-
-[BBVA Open Challenge Global Trends Website](https://www.centrodeinnovacionbbva.com/en/openchallenges/globaltrends)
+- [Mixed Reality Trading Workplace Challenge Repository](https://github.com/intelequia/BBVA-Open-Challenge)
+- [Mixed Reality Trading Workplace Start-up guide](https://github.com/intelequia/BBVA-Open-Challenge/raw/master/Docs/Hololens%20Starter%20Kit.pdf)
+- [BBVA Open Challenge Global Trends Website](https://www.centrodeinnovacionbbva.com/en/openchallenges/globaltrends)
 
 ## License
 
