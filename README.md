@@ -1,6 +1,6 @@
 # **BBVA Open Challenge**
 
-![RDS](./Docs/Images/intelequia-bbva.jpg)
+![Intro](./Docs/Images/intelequia-bbva.jpg)
 
 This 1st of August has started the BBVA Open Challenge Global Trends, a contest created with the objective of finding solutions to the challenges that are presented in its sector, and this year, Intelequia will be in charge of guiding the participants to the challenge to develop mixed-reality trader workstations.
 
@@ -20,6 +20,14 @@ For this reason the organization of the event has decided to democratize the con
 This guide, therefore, collects in an organized way the basic procedures and techniques necessary to successfully execute a MR project in the Hololens simulator provided in the latest versions of Microsoft Visual Studio.
 
 Finally, you can note that this guide has been developed by **Intelequia VR Team**. Any doubts or clarifications that contestants have about the procedures described can direct it to the mailbox of technical support hololens@intelequia.com, indicating in the body of the same the data of registry of the contestant.
+
+## Official Documentation
+
+[Mixed Reality Trading Workplace Challenge Repository](https://github.com/intelequia/BBVA-Open-Challenge)
+
+[Mixed Reality Trading Workplace Start-up guide](https://github.com/intelequia/BBVA-Open-Challenge/raw/master/Docs/Hololens%20Starter%20Kit.pdf)
+
+[BBVA Open Challenge Global Trends Website](https://www.centrodeinnovacionbbva.com/en/openchallenges/globaltrends)
 
 ## License
 
